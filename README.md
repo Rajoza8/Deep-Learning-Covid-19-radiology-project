@@ -9,12 +9,24 @@ The COVID-19 pandemic has presented a significant global healthcare challenge, n
 * Raj Oza (ro2151)
 * Amey Kolhe (apk9563)
 
+To run the code:
+Refer to 1,2,3 in the references section of our report to download the dataset.
+You might want to use Google Colab as per the system specs below.
+Our directory structure on google Drive is as follows:
+* X-ray images
+content/drive/MyDrive/full
+
+* CT scan images
+content/drive/MyDrive/CTfull
+
+Be sure to modify your path accordingly!
+
 ## System Specs:
 * MacOS Big Sur 11.0.1
 * Processor: 2.3 GHz Dual-Core Intel Core i5
 * Memory: 8GB
 * Python: 3.8.0
-* Torch 2.0.0
+* Tensorflow 2.12.0
 * Graphics: Intel Iris Plus 640 1536 MB
 * Tesla K80 GPU provided by Google Colab.
 
