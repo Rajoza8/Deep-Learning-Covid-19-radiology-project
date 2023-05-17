@@ -13,10 +13,10 @@ To run the code:
 Refer to 1,2,3 in the references section of our report to download the dataset.
 You might want to use Google Colab as per the system specs below.
 Our directory structure on google Drive is as follows:
-* X-ray images
+* X-ray images:
 content/drive/MyDrive/full
 
-* CT scan images
+* CT scan images:
 content/drive/MyDrive/CTfull
 
 Be sure to modify your path accordingly!
